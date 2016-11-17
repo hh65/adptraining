@@ -1,1 +1,2 @@
-Ticket234
+Ticket234 Änderung im Ticket Branch
+Diese Änderung wurde im Master Branch gemacht.
